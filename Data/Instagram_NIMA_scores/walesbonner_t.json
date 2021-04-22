@@ -1,0 +1,90 @@
+[
+  {
+    "image_id": "2021-03-18_14-38-00_UTC",
+    "mean_score_prediction": 5.334822606295347
+  },
+  {
+    "image_id": "2021-03-18_14-38-01_UTC",
+    "mean_score_prediction": 5.433330975472927
+  },
+  {
+    "image_id": "2021-03-18_14-38-02_UTC",
+    "mean_score_prediction": 5.043145224452019
+  },
+  {
+    "image_id": "2021-03-26_09-20-27_UTC",
+    "mean_score_prediction": 5.2853976264595985
+  },
+  {
+    "image_id": "2021-03-26_09-20-28_UTC",
+    "mean_score_prediction": 5.318772301077843
+  },
+  {
+    "image_id": "2021-03-26_09-20-29_UTC",
+    "mean_score_prediction": 5.088411629199982
+  },
+  {
+    "image_id": "2021-03-26_12-44-28_UTC",
+    "mean_score_prediction": 6.331551164388657
+  },
+  {
+    "image_id": "2021-03-26_12-44-39_UTC",
+    "mean_score_prediction": 4.796581640839577
+  },
+  {
+    "image_id": "2021-03-26_12-44-48_UTC",
+    "mean_score_prediction": 6.180586924776435
+  },
+  {
+    "image_id": "2021-03-26_12-44-57_UTC",
+    "mean_score_prediction": 6.138671243563294
+  },
+  {
+    "image_id": "2021-03-26_12-45-14_UTC",
+    "mean_score_prediction": 5.970103025436401
+  },
+  {
+    "image_id": "2021-03-26_12-45-23_UTC",
+    "mean_score_prediction": 5.196584429591894
+  },
+  {
+    "image_id": "2021-03-26_12-45-30_UTC",
+    "mean_score_prediction": 6.18405482172966
+  },
+  {
+    "image_id": "2021-03-26_12-45-50_UTC",
+    "mean_score_prediction": 5.75801806896925
+  },
+  {
+    "image_id": "2021-03-26_12-45-58_UTC",
+    "mean_score_prediction": 5.704387031495571
+  },
+  {
+    "image_id": "2021-03-26_12-46-09_UTC",
+    "mean_score_prediction": 5.625632308423519
+  },
+  {
+    "image_id": "2021-03-26_12-46-18_UTC",
+    "mean_score_prediction": 5.572125982493162
+  },
+  {
+    "image_id": "2021-03-26_12-46-27_UTC",
+    "mean_score_prediction": 6.734404571354389
+  },
+  {
+    "image_id": "2021-03-26_12-46-35_UTC",
+    "mean_score_prediction": 5.71098044142127
+  },
+  {
+    "image_id": "2021-03-26_12-46-41_UTC",
+    "mean_score_prediction": 5.253021962940693
+  },
+  {
+    "image_id": "2021-03-26_12-46-51_UTC",
+    "mean_score_prediction": 6.849753784015775
+  },
+  {
+    "image_id": "2021-03-26_12-46-58_UTC",
+    "mean_score_prediction": 5.858487959951162
+  }
+]
