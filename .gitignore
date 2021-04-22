@@ -1,0 +1,15 @@
+
+Data/aclImdb/train/pos/9663_10.txt
+*.txt
+*.vocab
+Data/aclImdb/README
+*.feat
+*.gz
+*.bin
+*.zip
+Reprots/Adidas_for_Victor/FullData.csv
+Reprots/Adidas_for_Victor/Text_data_collect_full.py
+Reprots/Adidas_for_Victor/uniqueadidasdata.csv
+Reprots/Adidas_for_Victor/uniquefulldata.csv
+Reprots/Adidas_for_Victor/uniquesubredditdata.csv
+Reprots/Adidas_for_Victor/Word2vec.py
