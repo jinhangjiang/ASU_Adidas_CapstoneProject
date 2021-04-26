@@ -1,0 +1,874 @@
+[
+  {
+    "image_id": "2021-03-16_10-00-01_UTC",
+    "mean_score_prediction": 5.6003944631665945
+  },
+  {
+    "image_id": "2021-03-16_10-58-50_UTC",
+    "mean_score_prediction": 5.348061382770538
+  },
+  {
+    "image_id": "2021-03-16_12-33-10_UTC",
+    "mean_score_prediction": 4.8650141954422
+  },
+  {
+    "image_id": "2021-03-16_12-34-52_UTC",
+    "mean_score_prediction": 6.201814983040094
+  },
+  {
+    "image_id": "2021-03-16_20-35-33_UTC",
+    "mean_score_prediction": 5.432357601821423
+  },
+  {
+    "image_id": "2021-03-16_20-36-05_UTC",
+    "mean_score_prediction": 4.976238541305065
+  },
+  {
+    "image_id": "2021-03-16_20-45-53_UTC",
+    "mean_score_prediction": 5.05336669832468
+  },
+  {
+    "image_id": "2021-03-16_20-51-05_UTC",
+    "mean_score_prediction": 4.741156034171581
+  },
+  {
+    "image_id": "2021-03-16_22-20-32_UTC",
+    "mean_score_prediction": 5.411365378648043
+  },
+  {
+    "image_id": "2021-03-16_22-29-46_UTC",
+    "mean_score_prediction": 6.227610796689987
+  },
+  {
+    "image_id": "2021-03-16_22-57-38_UTC",
+    "mean_score_prediction": 4.766791291534901
+  },
+  {
+    "image_id": "2021-03-17_13-01-05_UTC",
+    "mean_score_prediction": 5.099935427308083
+  },
+  {
+    "image_id": "2021-03-17_13-04-55_UTC",
+    "mean_score_prediction": 4.869310460984707
+  },
+  {
+    "image_id": "2021-03-17_13-05-50_UTC",
+    "mean_score_prediction": 5.1659239158034325
+  },
+  {
+    "image_id": "2021-03-17_13-35-02_UTC",
+    "mean_score_prediction": 6.062664568424225
+  },
+  {
+    "image_id": "2021-03-17_13-35-48_UTC",
+    "mean_score_prediction": 5.056640513241291
+  },
+  {
+    "image_id": "2021-03-17_13-36-33_UTC",
+    "mean_score_prediction": 4.342113118618727
+  },
+  {
+    "image_id": "2021-03-17_14-12-52_UTC",
+    "mean_score_prediction": 5.332702681422234
+  },
+  {
+    "image_id": "2021-03-17_16-56-09_UTC",
+    "mean_score_prediction": 5.107102353125811
+  },
+  {
+    "image_id": "2021-03-17_18-41-44_UTC",
+    "mean_score_prediction": 6.315739657729864
+  },
+  {
+    "image_id": "2021-03-17_21-13-12_UTC",
+    "mean_score_prediction": 5.619640305638313
+  },
+  {
+    "image_id": "2021-03-17_22-30-26_UTC",
+    "mean_score_prediction": 5.048182222992182
+  },
+  {
+    "image_id": "2021-03-18_00-24-34_UTC",
+    "mean_score_prediction": 5.386014103889465
+  },
+  {
+    "image_id": "2021-03-18_00-27-49_UTC",
+    "mean_score_prediction": 5.1491356417536736
+  },
+  {
+    "image_id": "2021-03-18_00-27-50_UTC",
+    "mean_score_prediction": 5.46602301672101
+  },
+  {
+    "image_id": "2021-03-18_15-29-56_UTC",
+    "mean_score_prediction": 5.382834650576115
+  },
+  {
+    "image_id": "2021-03-18_15-29-57_UTC",
+    "mean_score_prediction": 5.5095702931284904
+  },
+  {
+    "image_id": "2021-03-18_15-29-58_UTC",
+    "mean_score_prediction": 6.515436301007867
+  },
+  {
+    "image_id": "2021-03-18_15-30-09_UTC",
+    "mean_score_prediction": 4.9691336788237095
+  },
+  {
+    "image_id": "2021-03-18_16-09-50_UTC",
+    "mean_score_prediction": 6.083786532282829
+  },
+  {
+    "image_id": "2021-03-18_16-29-56_UTC",
+    "mean_score_prediction": 5.10227245092392
+  },
+  {
+    "image_id": "2021-03-18_16-35-30_UTC",
+    "mean_score_prediction": 5.3018743917346
+  },
+  {
+    "image_id": "2021-03-18_16-36-22_UTC",
+    "mean_score_prediction": 4.996836468577385
+  },
+  {
+    "image_id": "2021-03-18_16-37-24_UTC",
+    "mean_score_prediction": 5.062999173998833
+  },
+  {
+    "image_id": "2021-03-18_16-37-25_UTC",
+    "mean_score_prediction": 4.944931536912918
+  },
+  {
+    "image_id": "2021-03-18_16-38-06_UTC",
+    "mean_score_prediction": 5.145971216261387
+  },
+  {
+    "image_id": "2021-03-19_11-16-27_UTC",
+    "mean_score_prediction": 5.116265162825584
+  },
+  {
+    "image_id": "2021-03-19_11-17-03_UTC",
+    "mean_score_prediction": 5.278542347252369
+  },
+  {
+    "image_id": "2021-03-19_11-19-05_UTC",
+    "mean_score_prediction": 5.899711180478334
+  },
+  {
+    "image_id": "2021-03-19_14-31-01_UTC",
+    "mean_score_prediction": 6.1613184586167336
+  },
+  {
+    "image_id": "2021-03-19_14-32-11_UTC",
+    "mean_score_prediction": 5.401392582803965
+  },
+  {
+    "image_id": "2021-03-19_14-35-06_UTC",
+    "mean_score_prediction": 5.377262461930513
+  },
+  {
+    "image_id": "2021-03-19_15-38-22_UTC",
+    "mean_score_prediction": 5.13072257488966
+  },
+  {
+    "image_id": "2021-03-19_15-39-17_UTC",
+    "mean_score_prediction": 4.2301763743162155
+  },
+  {
+    "image_id": "2021-03-19_17-28-28_UTC",
+    "mean_score_prediction": 5.03092647716403
+  },
+  {
+    "image_id": "2021-03-19_18-27-38_UTC",
+    "mean_score_prediction": 5.25045033916831
+  },
+  {
+    "image_id": "2021-03-19_23-01-59_UTC",
+    "mean_score_prediction": 5.233764134347439
+  },
+  {
+    "image_id": "2021-03-19_23-03-08_UTC",
+    "mean_score_prediction": 4.593924727290869
+  },
+  {
+    "image_id": "2021-03-19_23-03-26_UTC",
+    "mean_score_prediction": 4.435816831886768
+  },
+  {
+    "image_id": "2021-03-20_01-21-56_UTC",
+    "mean_score_prediction": 5.660341858863831
+  },
+  {
+    "image_id": "2021-03-20_14-42-45_UTC",
+    "mean_score_prediction": 4.921142220497131
+  },
+  {
+    "image_id": "2021-03-21_11-41-26_UTC",
+    "mean_score_prediction": 5.280222401022911
+  },
+  {
+    "image_id": "2021-03-21_18-21-35_UTC",
+    "mean_score_prediction": 5.266040042042732
+  },
+  {
+    "image_id": "2021-03-21_19-35-19_UTC",
+    "mean_score_prediction": 5.260286413133144
+  },
+  {
+    "image_id": "2021-03-21_22-36-48_UTC",
+    "mean_score_prediction": 5.081282012164593
+  },
+  {
+    "image_id": "2021-03-21_22-39-30_UTC",
+    "mean_score_prediction": 5.845846328884363
+  },
+  {
+    "image_id": "2021-03-21_22-39-35_UTC",
+    "mean_score_prediction": 4.985661953687668
+  },
+  {
+    "image_id": "2021-03-22_12-03-45_UTC",
+    "mean_score_prediction": 4.624071851372719
+  },
+  {
+    "image_id": "2021-03-22_12-49-33_UTC",
+    "mean_score_prediction": 4.311846822500229
+  },
+  {
+    "image_id": "2021-03-22_12-51-51_UTC",
+    "mean_score_prediction": 4.076120413839817
+  },
+  {
+    "image_id": "2021-03-22_13-59-14_UTC",
+    "mean_score_prediction": 5.6769145876169205
+  },
+  {
+    "image_id": "2021-03-22_14-04-52_UTC",
+    "mean_score_prediction": 5.2978230975568295
+  },
+  {
+    "image_id": "2021-03-22_14-20-19_UTC",
+    "mean_score_prediction": 4.411846835166216
+  },
+  {
+    "image_id": "2021-03-22_14-26-16_UTC",
+    "mean_score_prediction": 6.172287423163652
+  },
+  {
+    "image_id": "2021-03-22_14-26-17_UTC",
+    "mean_score_prediction": 5.655315011739731
+  },
+  {
+    "image_id": "2021-03-22_14-26-18_UTC",
+    "mean_score_prediction": 5.924674581736326
+  },
+  {
+    "image_id": "2021-03-22_14-26-19_UTC",
+    "mean_score_prediction": 5.957990808412433
+  },
+  {
+    "image_id": "2021-03-22_15-32-22_UTC",
+    "mean_score_prediction": 3.7652305401861668
+  },
+  {
+    "image_id": "2021-03-22_16-36-25_UTC",
+    "mean_score_prediction": 5.106763303279877
+  },
+  {
+    "image_id": "2021-03-22_16-37-47_UTC",
+    "mean_score_prediction": 4.462100736796856
+  },
+  {
+    "image_id": "2021-03-22_16-39-05_UTC",
+    "mean_score_prediction": 5.762413877993822
+  },
+  {
+    "image_id": "2021-03-22_17-49-25_UTC",
+    "mean_score_prediction": 5.211075931787491
+  },
+  {
+    "image_id": "2021-03-22_17-50-10_UTC",
+    "mean_score_prediction": 5.082286603748798
+  },
+  {
+    "image_id": "2021-03-22_19-20-11_UTC",
+    "mean_score_prediction": 4.853864386677742
+  },
+  {
+    "image_id": "2021-03-22_19-27-20_UTC",
+    "mean_score_prediction": 5.973493009805679
+  },
+  {
+    "image_id": "2021-03-22_19-28-47_UTC",
+    "mean_score_prediction": 5.933050688356161
+  },
+  {
+    "image_id": "2021-03-23_12-03-24_UTC",
+    "mean_score_prediction": 4.155928857624531
+  },
+  {
+    "image_id": "2021-03-23_13-27-08_UTC",
+    "mean_score_prediction": 4.029350258409977
+  },
+  {
+    "image_id": "2021-03-23_13-29-27_UTC",
+    "mean_score_prediction": 5.587443832308054
+  },
+  {
+    "image_id": "2021-03-23_14-16-42_UTC",
+    "mean_score_prediction": 5.40550871565938
+  },
+  {
+    "image_id": "2021-03-23_15-40-17_UTC",
+    "mean_score_prediction": 6.015309400856495
+  },
+  {
+    "image_id": "2021-03-23_16-21-28_UTC",
+    "mean_score_prediction": 6.403008135035634
+  },
+  {
+    "image_id": "2021-03-23_16-31-51_UTC",
+    "mean_score_prediction": 6.285355169326067
+  },
+  {
+    "image_id": "2021-03-23_19-48-35_UTC",
+    "mean_score_prediction": 4.758352391421795
+  },
+  {
+    "image_id": "2021-03-23_19-50-09_UTC",
+    "mean_score_prediction": 4.468977298587561
+  },
+  {
+    "image_id": "2021-03-23_19-51-27_UTC",
+    "mean_score_prediction": 4.704377844929695
+  },
+  {
+    "image_id": "2021-03-23_19-53-21_UTC",
+    "mean_score_prediction": 4.404269210994244
+  },
+  {
+    "image_id": "2021-03-23_19-54-06_UTC",
+    "mean_score_prediction": 4.912172921001911
+  },
+  {
+    "image_id": "2021-03-23_20-27-22_UTC",
+    "mean_score_prediction": 4.931573390960693
+  },
+  {
+    "image_id": "2021-03-23_21-01-25_UTC",
+    "mean_score_prediction": 5.02366828918457
+  },
+  {
+    "image_id": "2021-03-23_21-01-30_UTC",
+    "mean_score_prediction": 4.897072188556194
+  },
+  {
+    "image_id": "2021-03-23_21-01-35_UTC",
+    "mean_score_prediction": 4.934465736150742
+  },
+  {
+    "image_id": "2021-03-23_23-01-24_UTC",
+    "mean_score_prediction": 5.500335201621056
+  },
+  {
+    "image_id": "2021-03-23_23-03-17_UTC",
+    "mean_score_prediction": 4.796604312956333
+  },
+  {
+    "image_id": "2021-03-23_23-22-16_UTC",
+    "mean_score_prediction": 4.593040846288204
+  },
+  {
+    "image_id": "2021-03-24_12-55-46_UTC",
+    "mean_score_prediction": 5.433372836560011
+  },
+  {
+    "image_id": "2021-03-24_12-57-34_UTC",
+    "mean_score_prediction": 4.756178341805935
+  },
+  {
+    "image_id": "2021-03-24_13-27-41_UTC",
+    "mean_score_prediction": 5.379341810941696
+  },
+  {
+    "image_id": "2021-03-24_13-33-00_UTC",
+    "mean_score_prediction": 5.988675482571125
+  },
+  {
+    "image_id": "2021-03-24_13-33-42_UTC",
+    "mean_score_prediction": 5.440941441804171
+  },
+  {
+    "image_id": "2021-03-24_13-42-57_UTC",
+    "mean_score_prediction": 4.206307515501976
+  },
+  {
+    "image_id": "2021-03-24_14-41-46_UTC",
+    "mean_score_prediction": 5.976294886320829
+  },
+  {
+    "image_id": "2021-03-24_15-04-20_UTC",
+    "mean_score_prediction": 6.175578370690346
+  },
+  {
+    "image_id": "2021-03-24_15-04-21_UTC",
+    "mean_score_prediction": 6.1288713198155165
+  },
+  {
+    "image_id": "2021-03-24_15-04-22_UTC",
+    "mean_score_prediction": 6.272162787616253
+  },
+  {
+    "image_id": "2021-03-24_15-04-23_UTC",
+    "mean_score_prediction": 5.970405422151089
+  },
+  {
+    "image_id": "2021-03-24_15-29-59_UTC",
+    "mean_score_prediction": 5.938290651887655
+  },
+  {
+    "image_id": "2021-03-24_18-09-33_UTC",
+    "mean_score_prediction": 4.540625900030136
+  },
+  {
+    "image_id": "2021-03-24_19-16-45_UTC",
+    "mean_score_prediction": 5.841611243784428
+  },
+  {
+    "image_id": "2021-03-24_21-06-24_UTC",
+    "mean_score_prediction": 5.9685045182704926
+  },
+  {
+    "image_id": "2021-03-24_21-06-25_UTC",
+    "mean_score_prediction": 5.859496168792248
+  },
+  {
+    "image_id": "2021-03-24_22-16-21_UTC",
+    "mean_score_prediction": 6.5162953566759825
+  },
+  {
+    "image_id": "2021-03-24_22-16-22_UTC",
+    "mean_score_prediction": 5.943349696695805
+  },
+  {
+    "image_id": "2021-03-24_22-16-23_UTC",
+    "mean_score_prediction": 6.171161295846105
+  },
+  {
+    "image_id": "2021-03-24_22-16-24_UTC",
+    "mean_score_prediction": 5.858281431719661
+  },
+  {
+    "image_id": "2021-03-24_22-35-57_UTC",
+    "mean_score_prediction": 5.052781350910664
+  },
+  {
+    "image_id": "2021-03-24_22-36-03_UTC",
+    "mean_score_prediction": 5.965702071785927
+  },
+  {
+    "image_id": "2021-03-24_22-36-41_UTC",
+    "mean_score_prediction": 5.481575857847929
+  },
+  {
+    "image_id": "2021-03-24_22-37-07_UTC",
+    "mean_score_prediction": 5.51167868077755
+  },
+  {
+    "image_id": "2021-03-24_22-37-22_UTC",
+    "mean_score_prediction": 5.416029803454876
+  },
+  {
+    "image_id": "2021-03-24_22-37-28_UTC",
+    "mean_score_prediction": 5.1912718042731285
+  },
+  {
+    "image_id": "2021-03-24_22-38-46_UTC",
+    "mean_score_prediction": 5.67689049243927
+  },
+  {
+    "image_id": "2021-03-24_22-42-39_UTC",
+    "mean_score_prediction": 5.262263588607311
+  },
+  {
+    "image_id": "2021-03-24_22-45-04_UTC",
+    "mean_score_prediction": 4.854646686464548
+  },
+  {
+    "image_id": "2021-03-24_23-12-33_UTC",
+    "mean_score_prediction": 5.342306945472956
+  },
+  {
+    "image_id": "2021-03-24_23-40-51_UTC",
+    "mean_score_prediction": 5.175650518387556
+  },
+  {
+    "image_id": "2021-03-25_00-23-46_UTC",
+    "mean_score_prediction": 5.154344137758017
+  },
+  {
+    "image_id": "2021-03-25_01-24-41_UTC",
+    "mean_score_prediction": 5.441397778689861
+  },
+  {
+    "image_id": "2021-03-25_10-48-27_UTC",
+    "mean_score_prediction": 5.813866134732962
+  },
+  {
+    "image_id": "2021-03-26_02-44-13_UTC",
+    "mean_score_prediction": 4.323921214789152
+  },
+  {
+    "image_id": "2021-03-26_02-47-08_UTC",
+    "mean_score_prediction": 4.426426030695438
+  },
+  {
+    "image_id": "2021-03-26_13-34-05_UTC",
+    "mean_score_prediction": 5.74213639087975
+  },
+  {
+    "image_id": "2021-03-26_13-41-09_UTC",
+    "mean_score_prediction": 4.558678783476353
+  },
+  {
+    "image_id": "2021-03-26_13-44-35_UTC",
+    "mean_score_prediction": 6.326840989291668
+  },
+  {
+    "image_id": "2021-03-26_13-44-36_UTC",
+    "mean_score_prediction": 5.761867802590132
+  },
+  {
+    "image_id": "2021-03-26_13-44-37_UTC",
+    "mean_score_prediction": 6.308017130941153
+  },
+  {
+    "image_id": "2021-03-26_13-44-38_UTC",
+    "mean_score_prediction": 5.837709750980139
+  },
+  {
+    "image_id": "2021-03-26_13-44-39_UTC",
+    "mean_score_prediction": 5.605254832655191
+  },
+  {
+    "image_id": "2021-03-26_13-44-40_UTC",
+    "mean_score_prediction": 6.683867430314422
+  },
+  {
+    "image_id": "2021-03-26_13-44-41_UTC",
+    "mean_score_prediction": 6.048286881297827
+  },
+  {
+    "image_id": "2021-03-26_13-44-42_UTC",
+    "mean_score_prediction": 6.149480368942022
+  },
+  {
+    "image_id": "2021-03-26_19-06-44_UTC",
+    "mean_score_prediction": 5.6867256462574005
+  },
+  {
+    "image_id": "2021-03-26_21-44-05_UTC",
+    "mean_score_prediction": 5.743832483887672
+  },
+  {
+    "image_id": "2021-03-26_22-29-58_UTC",
+    "mean_score_prediction": 4.746862024068832
+  },
+  {
+    "image_id": "2021-03-27_13-21-25_UTC",
+    "mean_score_prediction": 5.427659720182419
+  },
+  {
+    "image_id": "2021-03-27_14-04-58_UTC",
+    "mean_score_prediction": 5.12018396705389
+  },
+  {
+    "image_id": "2021-03-27_14-05-28_UTC",
+    "mean_score_prediction": 4.679517921060324
+  },
+  {
+    "image_id": "2021-03-27_14-06-18_UTC",
+    "mean_score_prediction": 5.5242698192596436
+  },
+  {
+    "image_id": "2021-03-27_16-46-57_UTC",
+    "mean_score_prediction": 6.04820654168725
+  },
+  {
+    "image_id": "2021-03-27_17-09-36_UTC",
+    "mean_score_prediction": 4.6791484877467155
+  },
+  {
+    "image_id": "2021-03-27_17-09-53_UTC",
+    "mean_score_prediction": 5.2793580293655396
+  },
+  {
+    "image_id": "2021-03-27_22-40-42_UTC",
+    "mean_score_prediction": 4.88070921599865
+  },
+  {
+    "image_id": "2021-03-27_22-42-21_UTC",
+    "mean_score_prediction": 5.899727839976549
+  },
+  {
+    "image_id": "2021-03-28_00-46-46_UTC",
+    "mean_score_prediction": 6.231214702129364
+  },
+  {
+    "image_id": "2021-03-28_01-42-38_UTC",
+    "mean_score_prediction": 5.333282113075256
+  },
+  {
+    "image_id": "2021-03-28_01-44-16_UTC",
+    "mean_score_prediction": 5.018058151006699
+  },
+  {
+    "image_id": "2021-03-28_01-44-31_UTC",
+    "mean_score_prediction": 5.533452246338129
+  },
+  {
+    "image_id": "2021-03-28_13-41-10_UTC",
+    "mean_score_prediction": 4.81792476773262
+  },
+  {
+    "image_id": "2021-03-28_13-42-55_UTC",
+    "mean_score_prediction": 4.613431483507156
+  },
+  {
+    "image_id": "2021-03-28_13-44-11_UTC",
+    "mean_score_prediction": 5.069409511983395
+  },
+  {
+    "image_id": "2021-03-28_13-44-41_UTC",
+    "mean_score_prediction": 5.144439443945885
+  },
+  {
+    "image_id": "2021-03-28_13-46-18_UTC",
+    "mean_score_prediction": 4.961849860846996
+  },
+  {
+    "image_id": "2021-03-28_13-47-07_UTC",
+    "mean_score_prediction": 4.935231238603592
+  },
+  {
+    "image_id": "2021-03-28_13-47-39_UTC",
+    "mean_score_prediction": 4.914025232195854
+  },
+  {
+    "image_id": "2021-03-28_13-48-27_UTC",
+    "mean_score_prediction": 4.927195757627487
+  },
+  {
+    "image_id": "2021-03-28_14-57-28_UTC",
+    "mean_score_prediction": 5.127253241837025
+  },
+  {
+    "image_id": "2021-03-28_14-57-58_UTC",
+    "mean_score_prediction": 5.425673346966505
+  },
+  {
+    "image_id": "2021-03-28_14-58-36_UTC",
+    "mean_score_prediction": 5.204716622829437
+  },
+  {
+    "image_id": "2021-03-28_14-59-30_UTC",
+    "mean_score_prediction": 5.291198056191206
+  },
+  {
+    "image_id": "2021-03-28_16-42-11_UTC",
+    "mean_score_prediction": 5.95074481703341
+  },
+  {
+    "image_id": "2021-03-28_16-43-30_UTC",
+    "mean_score_prediction": 4.680309627205133
+  },
+  {
+    "image_id": "2021-03-28_17-00-11_UTC",
+    "mean_score_prediction": 6.12823735922575
+  },
+  {
+    "image_id": "2021-03-28_17-00-12_UTC",
+    "mean_score_prediction": 5.857236307114363
+  },
+  {
+    "image_id": "2021-03-28_17-00-13_UTC",
+    "mean_score_prediction": 5.7310426235198975
+  },
+  {
+    "image_id": "2021-03-28_17-11-48_UTC",
+    "mean_score_prediction": 5.211668286472559
+  },
+  {
+    "image_id": "2021-03-28_17-12-29_UTC",
+    "mean_score_prediction": 5.653132315725088
+  },
+  {
+    "image_id": "2021-03-28_17-13-11_UTC",
+    "mean_score_prediction": 5.119102489203215
+  },
+  {
+    "image_id": "2021-03-28_23-41-23_UTC",
+    "mean_score_prediction": 5.998966256156564
+  },
+  {
+    "image_id": "2021-03-28_23-48-01_UTC",
+    "mean_score_prediction": 5.108718242496252
+  },
+  {
+    "image_id": "2021-03-29_18-23-58_UTC",
+    "mean_score_prediction": 4.217108942568302
+  },
+  {
+    "image_id": "2021-03-29_18-42-17_UTC",
+    "mean_score_prediction": 5.225625686347485
+  },
+  {
+    "image_id": "2021-03-29_21-26-37_UTC",
+    "mean_score_prediction": 5.889252182096243
+  },
+  {
+    "image_id": "2021-03-29_22-57-17_UTC",
+    "mean_score_prediction": 6.127888895571232
+  },
+  {
+    "image_id": "2021-03-29_22-57-57_UTC",
+    "mean_score_prediction": 6.020348072052002
+  },
+  {
+    "image_id": "2021-03-29_22-59-15_UTC",
+    "mean_score_prediction": 5.69568856805563
+  },
+  {
+    "image_id": "2021-03-29_23-02-52_UTC",
+    "mean_score_prediction": 4.949327539652586
+  },
+  {
+    "image_id": "2021-03-30_00-54-29_UTC",
+    "mean_score_prediction": 5.769546549767256
+  },
+  {
+    "image_id": "2021-03-30_00-54-30_UTC",
+    "mean_score_prediction": 5.820720981806517
+  },
+  {
+    "image_id": "2021-03-30_00-54-54_UTC",
+    "mean_score_prediction": 4.260676957666874
+  },
+  {
+    "image_id": "2021-03-30_01-03-46_UTC",
+    "mean_score_prediction": 5.869995899498463
+  },
+  {
+    "image_id": "2021-03-30_01-38-17_UTC",
+    "mean_score_prediction": 3.9039095230400562
+  },
+  {
+    "image_id": "2021-03-30_02-01-14_UTC",
+    "mean_score_prediction": 5.666593529284
+  },
+  {
+    "image_id": "2021-03-30_02-59-23_UTC",
+    "mean_score_prediction": 5.3877037316560745
+  },
+  {
+    "image_id": "2021-03-30_13-27-07_UTC",
+    "mean_score_prediction": 5.068952839821577
+  },
+  {
+    "image_id": "2021-03-30_13-28-43_UTC",
+    "mean_score_prediction": 4.584602348506451
+  },
+  {
+    "image_id": "2021-03-30_13-29-44_UTC",
+    "mean_score_prediction": 4.858015321195126
+  },
+  {
+    "image_id": "2021-03-30_23-02-37_UTC",
+    "mean_score_prediction": 5.062514830380678
+  },
+  {
+    "image_id": "2021-03-31_13-56-58_UTC",
+    "mean_score_prediction": 4.98772831261158
+  },
+  {
+    "image_id": "2021-03-31_13-58-40_UTC",
+    "mean_score_prediction": 4.532862156629562
+  },
+  {
+    "image_id": "2021-03-31_14-06-16_UTC",
+    "mean_score_prediction": 4.482351124286652
+  },
+  {
+    "image_id": "2021-03-31_14-07-02_UTC",
+    "mean_score_prediction": 4.73523485660553
+  },
+  {
+    "image_id": "2021-03-31_14-11-35_UTC",
+    "mean_score_prediction": 4.8565497025847435
+  },
+  {
+    "image_id": "2021-03-31_14-13-33_UTC",
+    "mean_score_prediction": 4.734399549663067
+  },
+  {
+    "image_id": "2021-03-31_14-47-52_UTC",
+    "mean_score_prediction": 5.287209212779999
+  },
+  {
+    "image_id": "2021-03-31_16-18-34_UTC",
+    "mean_score_prediction": 4.861120544373989
+  },
+  {
+    "image_id": "2021-03-31_17-36-04_UTC",
+    "mean_score_prediction": 5.456997361034155
+  },
+  {
+    "image_id": "2021-03-31_17-39-29_UTC",
+    "mean_score_prediction": 5.396446838974953
+  },
+  {
+    "image_id": "2021-03-31_17-39-30_UTC",
+    "mean_score_prediction": 5.729626007378101
+  },
+  {
+    "image_id": "2021-03-31_17-39-31_UTC",
+    "mean_score_prediction": 5.502400353550911
+  },
+  {
+    "image_id": "2021-03-31_17-43-34_UTC",
+    "mean_score_prediction": 6.113584283739328
+  },
+  {
+    "image_id": "2021-03-31_18-09-48_UTC",
+    "mean_score_prediction": 5.419448580592871
+  },
+  {
+    "image_id": "2021-03-31_18-13-09_UTC",
+    "mean_score_prediction": 5.391811057925224
+  },
+  {
+    "image_id": "2021-03-31_21-13-00_UTC",
+    "mean_score_prediction": 4.613806888461113
+  },
+  {
+    "image_id": "2021-03-31_22-57-14_UTC",
+    "mean_score_prediction": 5.956305377185345
+  },
+  {
+    "image_id": "2021-03-31_23-23-48_UTC",
+    "mean_score_prediction": 4.664245545864105
+  },
+  {
+    "image_id": "2021-04-01_00-24-58_UTC",
+    "mean_score_prediction": 5.502300024032593
+  },
+  {
+    "image_id": "2021-04-01_00-53-14_UTC",
+    "mean_score_prediction": 4.914077594876289
+  },
+  {
+    "image_id": "2021-04-01_00-53-22_UTC",
+    "mean_score_prediction": 5.952388733625412
+  }
+]
